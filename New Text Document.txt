@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>THÔNG TIN</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<h2>THÔNG TIN CÁ NHÂN</h2>
+		<hr color ="blue" size = "3"></hr>
+		<img src="no_avatar.png" align="left" width="176"/>
+		<p>H? và tên: <b> Cao T?n L?i </b></p>
+		<p>Ngày tháng nam sinh: 12/01/2000</p>
+		<p>Ð?a ch?: 10/20 <sup> C </sup>- M? Hòa - TP.LX - AG</p>
+		<p>Noi làm vi?c: Ð?i h?c An Giang</p>
+		<p>Ði?n tho?i: 076311455666</p>
+		<p>Email: <i>caotanloi@gmail.com</i></p>
+		<p>S? thích: </p>
+		<ul>
+				<li>Th? thao</li>
+				<li>Du l?ch</li>
+				<li>Ch?n l?,...</li>
+		</ul>
+		<p>Các trang Web yêu thích:</p>
+		<table border = 1 width="100%">
+				<tr>
+					<td><a href ="http://zing.vn">Báo Zing </a></td>
+					<td><a href ="http://youtube.com">Youtube</a></td>
+				</tr>
+				<tr>
+					<td><a href ="http://mp3.zing.vn">Nh?c Mp3 </a></td>
+					<td><a href ="http://youtube.com"></a></td>
+				</tr>
+		</table>
+	</body>
+</html>
